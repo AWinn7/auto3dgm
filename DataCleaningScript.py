@@ -1,9 +1,9 @@
 #INPUT
 #path to meshes
 #PLEASE ADD SLASHES AS APPROPRIATE FOR OS
-meshDir = '/INPUT/MESH/DIRECTORY/HERE/'
+meshDir = '/Users/amp/repos/tac/data/samples/nakwai_50_subsample_offs/ss_mesh_2_offs/'
 #path to cleaned meshes
-outputDir = '/OUTPUT/MESH/DIRECTORY/HERE/'
+outputDir = '/Users/amp/repos/tac/data/results/auto_results/'
 
 
 import numpy as np

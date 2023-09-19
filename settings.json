@@ -1,1 +1,1 @@
-{"num_subsample": [100, 200], "seed": null, "num_cores": 8, "sample_method": "FPS", "reflection": true, "mesh_dir": "C:/Users/rober/PersonalProjects/ToothAndClaw/Auto3dgm_Hamate_Test/originalMeshes/", "output_dir": "C:/Users/rober/PersonalProjects/ToothAndClaw/Auto3dgm_Hamate_Test/"}
+{"num_subsample": [100, 200], "seed": null, "num_cores": 6, "sample_method": "FPS", "reflection": true, "mesh_dir": "/Users/amp/repos/tac/data/samples/nakwai_50_subsample_offs/ss_mesh_2_offs/", "output_dir": "/Users/amp/repos/tac/data/results/auto_results/"}
